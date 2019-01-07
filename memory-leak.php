@@ -62,5 +62,6 @@ unset($html);
 $html = null;
 echo '1 memory after clean_all =',round(memory_get_usage()/1000),' KB<br>'; 
 
+echo "change update";
 
 ?>
